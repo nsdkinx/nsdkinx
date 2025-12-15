@@ -10,7 +10,7 @@ My strongest area of expertise is concurrency and obsessive optimization. I writ
 I'm also proficient at desktop application development with platform-specific features like named pipes, FFI, l8n/i10n and custom protocols.  
 
 Notable projects:
-- [**Skyline:**](https://github.com/miraclebots-dev/skyline) open-source licensing server for commercial software. Best-in-class encryption, crack-resistant protocol, telemetry collection and analysis, product-agnostic.
+- [**Skyline:**](https://github.com/miraclebots-dev/skyline) open-source licensing server for commercial software. Best-in-class encryption, telemetry collection and analytics, product-agnostic. Designed to be tamper-resistant.
 - [**vkmax:**](https://github.com/nsdkinx/vkmax) Python client library for the MAX messenger.
 *... to be filled...*
 
