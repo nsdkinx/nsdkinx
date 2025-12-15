@@ -17,7 +17,7 @@ Notable projects:
 
 I'm also a passionate digital minimalist, law student, UI/UX and motion designer, self-improvement enthusiast, interested in philosophy and ancient mythology, and have a shit ton of other hyperfixations — pick one.
 
-I am strictly anti-AI. There is zero AI-generated code under my name. I don't outsource my thinking to random text generators.  
-If AI-generated content is a requirement for your project, I'm not the right fit.
+**AI policy:** I am strictly anti-AI. There is zero AI-generated code under my name. I don't outsource my thinking to random text generators.  
+If generative AI is a requirement for your project, I'm not the right fit.
 
 [dmitry@nsdk.in](mailto:dmitry@nsdk.in)
