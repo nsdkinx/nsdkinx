@@ -1,28 +1,22 @@
-## Hi! I'm Dmitry Nasedkin, a backend developer.
+Hi! My name is Dmitry Nasedkin, but you may know me by my online handle — YutaRedux.  
 
-### Main stack: Python + FastAPI
-- **Data storage:** SQL (PostgreSQL), NoSQL (Redis, MongoDB), SQLAlchemy, Django ORM
-- **Frameworks expertise:** FastAPI, Flask, Django
-- **DevOps**: Docker, K8s, CapRover, Ansible, advanced nginx
-- **Data transport:** gRPC, GraphQL, RabbitMQ, Kafka
+I write code that solves problems.  
 
-### Interested in
-- **Low-level embedded and systems programming**  
-  I wrote several Linux kernel modules, including checkm8-a5 port to libusb
-- **Apple systems architecture**  
-  I read Darwin source code, also frameworks such as CoreFoundation, AVCore, etc
-- **Reverse engineering**  
-  I have a broad expertise in .NET and JVM reverse engineering, currently studying native code and Mach/XNU
-- **Telegram API**  
-  I am an expert in Telegram API - both Bot API and MTProto Core API. I speak English, Russian and TL schemas.  
-  aiogram, aiogram_dialog and telethon source code have been read more than the alphabet.
-- **Digital minimalism**  
-  I stand zero digital clutter. This also means embracing native code over abstractions, no overcomplication, etc.
-- **Linux & open source**  
-  I use Arch btw
+I specialize in complex, high-throughput applications for social media marketing, promotion automation and business analytics.
+UI/UX is my number one priority: I make *tools*, not fidget toys. 
 
-and many, many, many more...
+**Tech stack: Go (main language), Dart/Flutter, C++, Python.**  
+My strongest area of expertise is concurrency and obsessive optimization. I write highly concurrent code ready for scale from day one.  
+I'm also proficient at desktop application development with platform-specific features like named pipes, FFI, l8n/i10n and custom protocols.  
 
-### Contact me
-- **Telegram:** https://t.me/its_nsdkinx
-- **Mail:** nsdkinx@ya.ru
+Notable projects:
+- [**Skyline:**](https://github.com/miraclebots-dev/skyline) open-source licensing server for commercial software. Best-in-class encryption, crack-resistant protocol, telemetry collection and analysis, product-agnostic.
+- [**vkmax:**](https://github.com/nsdkinx/vkmax) Python client library for the MAX messenger.
+*... to be filled...*
+
+I'm also a passionate digital minimalist, law student, UI/UX and motion designer, self-improvement enthusiast, interested in philosophy and ancient mythology, and have a shit ton of other hyperfixations — pick one.
+
+I am strictly anti-AI. There is zero AI-generated code under my name. I don't outsource my thinking to random text generators.  
+If AI-generated content is a requirement for your project, I'm not the right fit.
+
+[dmitry@nsdk.in](mailto:dmitry@nsdk.in)
