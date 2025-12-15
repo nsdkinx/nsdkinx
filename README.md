@@ -11,7 +11,8 @@ I'm also proficient at desktop application development with platform-specific fe
 
 Notable projects:
 - [**Skyline:**](https://github.com/miraclebots-dev/skyline) open-source licensing server for commercial software. Best-in-class encryption, telemetry collection and analytics, product-agnostic. Designed to be tamper-resistant.
-- [**vkmax:**](https://github.com/nsdkinx/vkmax) Python client library for the MAX messenger.
+- [**vkmax:**](https://github.com/nsdkinx/vkmax) Python client library for the MAX messenger.  
+
 *... to be filled...*
 
 I'm also a passionate digital minimalist, law student, UI/UX and motion designer, self-improvement enthusiast, interested in philosophy and ancient mythology, and have a shit ton of other hyperfixations — pick one.
